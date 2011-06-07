@@ -5,6 +5,8 @@
  * Original Implementation Date: Winter '10 ish
  *
  * Doing things with keywords for teh lulz
+ * @author Benedict Harcourt (javajawa)
+ * @author Mark Rutland (nullmodem)
  */
 class Throws extends Exception
 {
