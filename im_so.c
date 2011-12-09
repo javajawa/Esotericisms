@@ -6,7 +6,7 @@
  * Piece of code that gets stuck in an infinite dereferencing loop
  */
 #include "stdio.h"
- 
+
 void main(void)
 {
 	void* p = (void *)&p;
