@@ -10,14 +10,14 @@
  */
 class Throws extends Exception
 {
-  static Throws exception;
-  Throws exception(Throws exception) throws Exception
-  {
-    throw exception;
-  }
+	static Throws exception;
+	Throws exception(Throws exception) throws Exception
+	{
+		throw exception;
+	}
 
-  Throws() throws Throws
-  {
-    throw (exception != null ? exception : this);
-  }
+	Throws() throws Throws
+	{
+		throw (exception != null ? exception : this);
+	}
 }
