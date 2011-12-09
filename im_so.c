@@ -1,5 +1,6 @@
 /**
  * Name: I'm so C, I point to myself!
+ * Author: Ben Harcourt / javajawa <ben.harcourt@harcourtprogramming.co.uk>
  * Reason: The name coming up as a joke in a conversation
  * Original Implementation Date: 7th June 2011
  *
