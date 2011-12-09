@@ -1,0 +1,3 @@
+[submodule "more"]
+	path = more
+	url = git@github.com:javajawa/Esotericisms.git
