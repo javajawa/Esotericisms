@@ -17,3 +17,4 @@ void main(void)
 		p = (*(void **)p);
 	}
 }
+
