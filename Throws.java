@@ -21,3 +21,4 @@ class Throws extends Exception
 		throw (exception != null ? exception : this);
 	}
 }
+
