@@ -18,7 +18,7 @@ class Throws extends Exception
 
 	Throws() throws Throws
 	{
-		throw (exception != null ? exception : this);
+		throw (exception != null ? null : exception);
 	}
 }
 
